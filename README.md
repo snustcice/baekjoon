@@ -1,2 +1,2 @@
 # Baekjoon
-# Format : YYYYMMDD_(Problem number)
+Format : YYYYMMDD_(Problem number)
