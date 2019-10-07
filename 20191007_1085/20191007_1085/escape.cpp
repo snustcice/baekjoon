@@ -7,9 +7,9 @@ int main(void)
 	cin >> x >> y >> w >> h;
 
 	int df_x = w - x;
-	int df_y = h - y;
+	int df_y = h - y;	//총 4가지의 경우가 있음
 
-	int answer = 1000;
+	int answer = 1000;	//최솟값을 구하기 위한 변수
 
 	if (x <= answer)
 		answer = x;
