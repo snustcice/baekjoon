@@ -1,2 +1,2 @@
 # Baekjoon
-Folder name format : YYYYMMDD_(Problem number)
+Name format : YYYYMMDD_(Problem number)
